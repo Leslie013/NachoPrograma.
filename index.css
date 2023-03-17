@@ -1,0 +1,16 @@
+body {
+background: black;
+}
+
+.nav1 {
+    display: inline-block;
+    background: palevioletred;
+    color: white;
+    padding: 10px 30px;
+}
+
+.nav1:hover:hover {
+    background: pink;
+}
+
+
